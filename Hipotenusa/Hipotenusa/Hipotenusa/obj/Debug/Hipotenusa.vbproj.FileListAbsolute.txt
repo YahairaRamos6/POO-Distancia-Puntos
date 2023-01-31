@@ -1,0 +1,36 @@
+D:\FIME\8 semestre\Hipotenusa\Hipotenusa\bin\Debug\Hipotenusa.exe.config
+D:\FIME\8 semestre\Hipotenusa\Hipotenusa\bin\Debug\Hipotenusa.exe
+D:\FIME\8 semestre\Hipotenusa\Hipotenusa\bin\Debug\Hipotenusa.pdb
+D:\FIME\8 semestre\Hipotenusa\Hipotenusa\bin\Debug\Hipotenusa.xml
+D:\FIME\8 semestre\Hipotenusa\Hipotenusa\obj\Debug\Hipotenusa.vbprojAssemblyReference.cache
+D:\FIME\8 semestre\Hipotenusa\Hipotenusa\obj\Debug\Hipotenusa.Form1.resources
+D:\FIME\8 semestre\Hipotenusa\Hipotenusa\obj\Debug\Hipotenusa.Resources.resources
+D:\FIME\8 semestre\Hipotenusa\Hipotenusa\obj\Debug\Hipotenusa.vbproj.GenerateResource.cache
+D:\FIME\8 semestre\Hipotenusa\Hipotenusa\obj\Debug\Hipotenusa.vbproj.CoreCompileInputs.cache
+D:\FIME\8 semestre\Hipotenusa\Hipotenusa\obj\Debug\Hipotenusa.exe
+D:\FIME\8 semestre\Hipotenusa\Hipotenusa\obj\Debug\Hipotenusa.xml
+D:\FIME\8 semestre\Hipotenusa\Hipotenusa\obj\Debug\Hipotenusa.pdb
+C:\Users\52866\Desktop\Hipotenusa\Hipotenusa\bin\Debug\Hipotenusa.exe.config
+C:\Users\52866\Desktop\Hipotenusa\Hipotenusa\bin\Debug\Hipotenusa.exe
+C:\Users\52866\Desktop\Hipotenusa\Hipotenusa\bin\Debug\Hipotenusa.pdb
+C:\Users\52866\Desktop\Hipotenusa\Hipotenusa\bin\Debug\Hipotenusa.xml
+C:\Users\52866\Desktop\Hipotenusa\Hipotenusa\obj\Debug\Hipotenusa.vbprojAssemblyReference.cache
+C:\Users\52866\Desktop\Hipotenusa\Hipotenusa\obj\Debug\Hipotenusa.Form1.resources
+C:\Users\52866\Desktop\Hipotenusa\Hipotenusa\obj\Debug\Hipotenusa.Resources.resources
+C:\Users\52866\Desktop\Hipotenusa\Hipotenusa\obj\Debug\Hipotenusa.vbproj.GenerateResource.cache
+C:\Users\52866\Desktop\Hipotenusa\Hipotenusa\obj\Debug\Hipotenusa.vbproj.CoreCompileInputs.cache
+C:\Users\52866\Desktop\Hipotenusa\Hipotenusa\obj\Debug\Hipotenusa.exe
+C:\Users\52866\Desktop\Hipotenusa\Hipotenusa\obj\Debug\Hipotenusa.xml
+C:\Users\52866\Desktop\Hipotenusa\Hipotenusa\obj\Debug\Hipotenusa.pdb
+C:\Users\usuario\Downloads\Hipotenusa\Hipotenusa\Hipotenusa\bin\Debug\Hipotenusa.exe.config
+C:\Users\usuario\Downloads\Hipotenusa\Hipotenusa\Hipotenusa\bin\Debug\Hipotenusa.exe
+C:\Users\usuario\Downloads\Hipotenusa\Hipotenusa\Hipotenusa\bin\Debug\Hipotenusa.pdb
+C:\Users\usuario\Downloads\Hipotenusa\Hipotenusa\Hipotenusa\bin\Debug\Hipotenusa.xml
+C:\Users\usuario\Downloads\Hipotenusa\Hipotenusa\Hipotenusa\obj\Debug\Hipotenusa.vbprojAssemblyReference.cache
+C:\Users\usuario\Downloads\Hipotenusa\Hipotenusa\Hipotenusa\obj\Debug\Hipotenusa.Form1.resources
+C:\Users\usuario\Downloads\Hipotenusa\Hipotenusa\Hipotenusa\obj\Debug\Hipotenusa.Resources.resources
+C:\Users\usuario\Downloads\Hipotenusa\Hipotenusa\Hipotenusa\obj\Debug\Hipotenusa.vbproj.GenerateResource.cache
+C:\Users\usuario\Downloads\Hipotenusa\Hipotenusa\Hipotenusa\obj\Debug\Hipotenusa.vbproj.CoreCompileInputs.cache
+C:\Users\usuario\Downloads\Hipotenusa\Hipotenusa\Hipotenusa\obj\Debug\Hipotenusa.exe
+C:\Users\usuario\Downloads\Hipotenusa\Hipotenusa\Hipotenusa\obj\Debug\Hipotenusa.xml
+C:\Users\usuario\Downloads\Hipotenusa\Hipotenusa\Hipotenusa\obj\Debug\Hipotenusa.pdb

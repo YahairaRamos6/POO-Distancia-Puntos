@@ -1,0 +1,10 @@
+C:\Users\52866\Desktop\Hipotenusa\DistanciaP_CS\bin\Debug\DistanciaP_CS.exe.config
+C:\Users\52866\Desktop\Hipotenusa\DistanciaP_CS\bin\Debug\DistanciaP_CS.exe
+C:\Users\52866\Desktop\Hipotenusa\DistanciaP_CS\bin\Debug\DistanciaP_CS.pdb
+C:\Users\52866\Desktop\Hipotenusa\DistanciaP_CS\obj\Debug\DistanciaP_CS.csprojAssemblyReference.cache
+C:\Users\52866\Desktop\Hipotenusa\DistanciaP_CS\obj\Debug\DistanciaP_CS.DistanciaP.resources
+C:\Users\52866\Desktop\Hipotenusa\DistanciaP_CS\obj\Debug\DistanciaP_CS.Properties.Resources.resources
+C:\Users\52866\Desktop\Hipotenusa\DistanciaP_CS\obj\Debug\DistanciaP_CS.csproj.GenerateResource.cache
+C:\Users\52866\Desktop\Hipotenusa\DistanciaP_CS\obj\Debug\DistanciaP_CS.csproj.CoreCompileInputs.cache
+C:\Users\52866\Desktop\Hipotenusa\DistanciaP_CS\obj\Debug\DistanciaP_CS.exe
+C:\Users\52866\Desktop\Hipotenusa\DistanciaP_CS\obj\Debug\DistanciaP_CS.pdb

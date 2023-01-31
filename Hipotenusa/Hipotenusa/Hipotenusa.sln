@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Hipotenusa", "Hipotenusa\Hipotenusa.vbproj", "{D715FE81-C853-4960-91DE-63FC882F20D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistanciaP_CS", "DistanciaP_CS\DistanciaP_CS.csproj", "{F45DA23C-101B-4AEA-846E-3C5480E2F142}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D715FE81-C853-4960-91DE-63FC882F20D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D715FE81-C853-4960-91DE-63FC882F20D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D715FE81-C853-4960-91DE-63FC882F20D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D715FE81-C853-4960-91DE-63FC882F20D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F45DA23C-101B-4AEA-846E-3C5480E2F142}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F45DA23C-101B-4AEA-846E-3C5480E2F142}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F45DA23C-101B-4AEA-846E-3C5480E2F142}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F45DA23C-101B-4AEA-846E-3C5480E2F142}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47F011D1-2756-48ED-B645-A506A01CA722}
+	EndGlobalSection
+EndGlobal
