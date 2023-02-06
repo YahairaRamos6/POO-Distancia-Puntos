@@ -1,0 +1,12 @@
+D:\FIME\8 semestre\Sistemas de progra 2\Distancia3P\Distancia3PP\bin\Debug\Distancia3PP.exe.config
+D:\FIME\8 semestre\Sistemas de progra 2\Distancia3P\Distancia3PP\bin\Debug\Distancia3PP.exe
+D:\FIME\8 semestre\Sistemas de progra 2\Distancia3P\Distancia3PP\bin\Debug\Distancia3PP.pdb
+D:\FIME\8 semestre\Sistemas de progra 2\Distancia3P\Distancia3PP\bin\Debug\Distancia3PP.xml
+D:\FIME\8 semestre\Sistemas de progra 2\Distancia3P\Distancia3PP\obj\Debug\Distancia3PP.vbprojAssemblyReference.cache
+D:\FIME\8 semestre\Sistemas de progra 2\Distancia3P\Distancia3PP\obj\Debug\Distancia3PP.Form1.resources
+D:\FIME\8 semestre\Sistemas de progra 2\Distancia3P\Distancia3PP\obj\Debug\Distancia3PP.Resources.resources
+D:\FIME\8 semestre\Sistemas de progra 2\Distancia3P\Distancia3PP\obj\Debug\Distancia3PP.vbproj.GenerateResource.cache
+D:\FIME\8 semestre\Sistemas de progra 2\Distancia3P\Distancia3PP\obj\Debug\Distancia3PP.vbproj.CoreCompileInputs.cache
+D:\FIME\8 semestre\Sistemas de progra 2\Distancia3P\Distancia3PP\obj\Debug\Distancia3PP.exe
+D:\FIME\8 semestre\Sistemas de progra 2\Distancia3P\Distancia3PP\obj\Debug\Distancia3PP.xml
+D:\FIME\8 semestre\Sistemas de progra 2\Distancia3P\Distancia3PP\obj\Debug\Distancia3PP.pdb
