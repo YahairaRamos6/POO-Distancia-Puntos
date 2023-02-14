@@ -1,0 +1,12 @@
+D:\FIME\8 semestre\Sistemas de progra 2\Persona_Contacto\Persona_Contacto\bin\Debug\Persona_Contacto.exe.config
+D:\FIME\8 semestre\Sistemas de progra 2\Persona_Contacto\Persona_Contacto\bin\Debug\Persona_Contacto.exe
+D:\FIME\8 semestre\Sistemas de progra 2\Persona_Contacto\Persona_Contacto\bin\Debug\Persona_Contacto.pdb
+D:\FIME\8 semestre\Sistemas de progra 2\Persona_Contacto\Persona_Contacto\bin\Debug\Persona_Contacto.xml
+D:\FIME\8 semestre\Sistemas de progra 2\Persona_Contacto\Persona_Contacto\obj\Debug\Persona_Contacto.vbprojAssemblyReference.cache
+D:\FIME\8 semestre\Sistemas de progra 2\Persona_Contacto\Persona_Contacto\obj\Debug\Persona_Contacto.Form1.resources
+D:\FIME\8 semestre\Sistemas de progra 2\Persona_Contacto\Persona_Contacto\obj\Debug\Persona_Contacto.Resources.resources
+D:\FIME\8 semestre\Sistemas de progra 2\Persona_Contacto\Persona_Contacto\obj\Debug\Persona_Contacto.vbproj.GenerateResource.cache
+D:\FIME\8 semestre\Sistemas de progra 2\Persona_Contacto\Persona_Contacto\obj\Debug\Persona_Contacto.vbproj.CoreCompileInputs.cache
+D:\FIME\8 semestre\Sistemas de progra 2\Persona_Contacto\Persona_Contacto\obj\Debug\Persona_Contacto.exe
+D:\FIME\8 semestre\Sistemas de progra 2\Persona_Contacto\Persona_Contacto\obj\Debug\Persona_Contacto.xml
+D:\FIME\8 semestre\Sistemas de progra 2\Persona_Contacto\Persona_Contacto\obj\Debug\Persona_Contacto.pdb
